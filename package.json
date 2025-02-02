@@ -1,0 +1,23 @@
+{
+  "name": "@types/react-fitty",
+  "version": "1.0.0",
+  "description": "Type definitions for react-fitty",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nashidahmed/@types-react-fitty.git"
+  },
+  "author": "Nashid Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nashidahmed/@types-react-fitty/issues"
+  },
+  "homepage": "https://github.com/nashidahmed/@types-react-fitty#readme",
+  "dependencies": {
+    "fitty": "^2.4.2"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.8",
+    "react": "^19.0.0"
+  },
+  "types": "./index.d.ts"
+}
